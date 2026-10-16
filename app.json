@@ -1,0 +1,12 @@
+﻿{
+  "expo": {
+    "name": "Neon Arena 360",
+    "slug": "neon-arena-360",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.orbe.neonarena360"
+    }
+  }
+}
